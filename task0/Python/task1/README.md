@@ -21,9 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/86669822/124388140-308df600-dcea-11eb-8482-c32b55e80acb.png)
 
-Ну і результат використання програми.
 
-![image](https://user-images.githubusercontent.com/86669822/124350956-4e7f2c00-dc00-11eb-90cf-21219157f730.png)
 
 
 
